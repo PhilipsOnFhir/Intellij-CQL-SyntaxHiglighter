@@ -1,0 +1,21 @@
+<filetype binary="false" description="Clinical Quality Language" name="Clinical Quality Language">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="//" />
+      <option name="COMMENT_START" value="/*" />
+      <option name="COMMENT_END" value="*/" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+    </options>
+    <keywords keywords="context;define;library;parameter;using;valueset;version;" ignore_case="false" />
+    <keywords2 keywords="after;all;and;as;asc;ascending;before;between;by;called;case;cast;Code;codesystem;codesystems;collapse;Concept;contains;convert;date;day;days;default;define;desc;descending;difference;display;distinct;div;duration;during;else;end;ends;except;exists;false;flatten;from;function;hour;hours;if;in;include;includes;included in;intersect;Interval;Is;let;library;List;maximum;meets;millisecond;milliseconds;minimum;minute;minutes;mod;month;months;not;null;occurs;of;or;or after;or before;or less;or more;overlaps;parameter;predecessor;private;properly;public;return;same;singleton;second;seconds;start;starts;sort;successor;such that;then;time;timezone;to;true;Tuple;union;week;weeks;where;when;width;with;within;without;xor;year;years" />
+    <keywords3 keywords="FHIR;QUICK" />
+    <keywords4 keywords="AgeInYears;Exists;Interval;Last;Today" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="cql" />
+  </extensionMap>
+</filetype>
